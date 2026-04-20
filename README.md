@@ -137,7 +137,7 @@ All API responses follow a consistent format:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/MelakuAzene21/Talent-Management-System.git
 cd talent-management-backend
 ```
 
